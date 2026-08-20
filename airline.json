@@ -4,9 +4,9 @@
     "bgcolor": "#ffffff",
     "liveries": [
         {
-            "aircraft": "737-700",
+            "aircraft": "b737-800",
             "name": "MCR Boeing 737",
-            "texture": ["https://i.ibb.co/chb0gqDk/Presentation-1.png"]
+            "texture": ["https://ibb.co"]
         }
     ]
 }
